@@ -19,7 +19,7 @@
         <label>NIS</label>
         <input type="text" name="nis" required>
     </div>
-    <div>
+    <div> 
         <label>Kelas</label>
         <input type="text" name="kelas" required>
     </div>
